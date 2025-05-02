@@ -1,0 +1,5 @@
+00100 David                A 03000.00 NP
+00100 Jane                 A 00010.00 NP
+00100 Clark_K              A 00500.00 NP
+00100 Ben Wallace          D 00500.00 NP
+00000 END_OF_FILE          A 00000.00 NP
